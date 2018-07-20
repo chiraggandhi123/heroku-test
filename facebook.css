@@ -1,0 +1,124 @@
+.header{
+	color:white;
+	background: #3b5998;
+}
+.header p
+{
+	
+    font-size: 40px; 
+    float: left;
+    padding-left: 130px;
+    font-weight: bolder;
+    text-shadow: 1px 0px 1px white;
+    font-family: 'Titillium Web', sans-serif;
+    padding-bottom: 0px;
+    border: 0px solid black; 
+}
+body{
+	background: grey;
+}
+table{
+    background-color: #3b5998;
+    color: white;
+    padding-left: 780px;
+    padding-top: 15px;s
+    padding-bottom: 15px;
+
+}
+
+table tr{
+}
+
+table tr td{
+    border: 0px solid white;
+
+    padding: 0px;
+}
+.body_left{
+	  margin-top: 0px;
+    border: 0px solid black;
+    width: 48%;
+    clear: both;
+    float: left;
+}
+.body_left p{
+	 margin-left: 120px;
+    margin-right: 50px;
+    color: #0e385f;
+    font-size: 24px;
+    font-weight: bold;
+    border: 0px solid black;
+    text-shadow: 0px 0px 0px #0e385f;
+    font-family: 'Titillium Web', sans-serif;
+}
+img{
+    border: 0px solid black;
+    height: 400px;
+    margin-left: 97px;
+    border-radius: 50%;
+    border:10px blue;
+    margin: 0px 0px 0px 150px;
+}
+.body_right{
+    border: 0px solid black;
+    margin-left: 0px;
+    width: 50%;
+    float: right;
+   } 
+    
+    .body_right p{
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    padding-top: 0px;
+    color: black;
+    font-size: 40px;
+    font-weight: normal;
+    border: 0px solid black;
+    text-align: left;
+    font-weight: 200;
+
+}
+.radius1{
+	border-radius: 5px;
+	width:280px;
+	height: 35px;
+	font-size: 20px;
+	padding:5px;
+
+}
+.radius{
+	border-radius: 5px;
+	width:580px;
+	height: 35px;
+	font-size: 20px;
+	padding:5px;
+
+}
+.birthday{
+	font-size: 20px;
+
+}
+.need{
+    font-size: 15px;
+    text-decoration: none;
+    margin-left: 15px;
+}
+.title{
+	 font-family: 'Helvetica Neue'; 
+    color:white;
+    background-color: darkgreen; 
+    font-weight:normal; 
+    text-align:center; 
+    font-size:27px;
+    width: auto;
+    line-height: 30px;
+    border-radius: 5px;
+
+}
+body{
+    background: -webkit-linear-gradient(white, #345fec);
+    background: -o-linear-gradient(white, #345fec); 
+    background: -moz-linear-gradient(white, #345fec);
+    background: linear-gradient(white, #345fec);
+}
